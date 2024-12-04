@@ -16,6 +16,7 @@ header {
     background-color: #f5f5f5;
     padding: 20px;
     border-bottom: 1px solid #ccc;
+
 }
 
 .logo-container {
@@ -23,7 +24,7 @@ header {
 }
 
 header img {
-    width: 200px; /* Adjust width as needed */
+    width: 150px; /* Adjust width as needed */
 }
 
 header nav ul {
@@ -78,6 +79,8 @@ header nav a {
 
 .feature p {
     margin-bottom: 20px;
+    text-align: left;
+    margin-left: 30px;
 }
 
 .feature a {
@@ -87,6 +90,7 @@ header nav a {
     padding: 10px 20px;
     border-radius: 5px;
 }
+
 
 /* Footer styles */
 footer {
